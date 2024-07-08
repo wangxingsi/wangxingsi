@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @wangxingsi
-
+-But I prefer you to call me Xiao Qi ~
 - 🌱 I’m currently learning Python
-
